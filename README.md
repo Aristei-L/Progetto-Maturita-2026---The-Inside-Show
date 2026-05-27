@@ -8,7 +8,6 @@ Repository del progetto di maturità di:
 - Panzeri Simone
 
 
-# Link al progetto:
 
 
 # Descrizione della Repository:
@@ -18,5 +17,5 @@ Inoltre sono presenti codice e asset del progetto.
 
 
 
-
+# Link al progetto:
 
