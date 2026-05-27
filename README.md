@@ -17,7 +17,6 @@ Ogni pdf è la presentazione del progetto e del contributo del rispettivo compon
 Inoltre sono presenti codice e asset del progetto.
 
 
-# Descrizione del Progetto:
 
 
 
